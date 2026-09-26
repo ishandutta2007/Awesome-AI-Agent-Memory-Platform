@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Forks"/></a> <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Forks"/></a> <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -57,51 +57,51 @@ Below is a detailed comparison of managed SaaS agent memory and context persiste
 
 ## 🔓 Open-Source GitHub Projects
 
-Leading self-hosted and open-source frameworks for agent memory, temporal knowledge graphs, and persistent state storage. Sorted by **GitHub Star Count (descending)**.
+Leading self-hosted and open-source frameworks for agent memory, temporal knowledge graphs, and persistent state storage. Sorted by **GitHub Stars_Count (descending)**.
 
-- [![GitHub Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers) **[RAGFlow](https://github.com/infiniflow/ragflow)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers) **[RAGFlow](https://github.com/infiniflow/ragflow)**  
   Open-source RAG engine based on deep document understanding, offering agentic workflow engines and long-term memory context retrieval (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers) **[Mem0](https://github.com/mem0ai/mem0)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers) **[Mem0](https://github.com/mem0ai/mem0)**  
   The leading open-source memory layer for AI agents—drop-in persistent memory with entity extraction, vector/graph support, and personalized agent state management (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers) **[CrewAI](https://github.com/crewAIInc/crewAI)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers) **[CrewAI](https://github.com/crewAIInc/crewAI)**  
   Cutting-edge framework for orchestrating role-playing autonomous AI agents with built-in short-term, long-term, and entity memory systems (MIT).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) **[Milvus](https://github.com/milvus-io/milvus)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) **[Milvus](https://github.com/milvus-io/milvus)**  
   High-performance, open-source cloud-native vector database engineered for scalable neural memory retrieval and billion-scale vector embedding indexing (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers) **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers) **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)**  
   Lightweight library for building multi-modal agents with structured memory, PostgreSQL session state, and dynamic knowledge retrieval (MIT).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers) **[DSPy](https://github.com/stanfordnlp/dspy)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers) **[DSPy](https://github.com/stanfordnlp/dspy)**  
   Framework for programming—rather than prompting—foundation models, featuring declarative memory optimization and automated retrieval compilation (MIT).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) **[Qdrant](https://github.com/qdrant/qdrant)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) **[Qdrant](https://github.com/qdrant/qdrant)**  
   High-performance open-source vector search engine and database written in Rust with extended payload filtering for agent state management (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/getzep/graphiti?style=social&color=white)](https://github.com/getzep/graphiti/stargazers) **[Graphiti (Zep Engine)](https://github.com/getzep/graphiti)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/getzep/graphiti?style=social&color=white)](https://github.com/getzep/graphiti/stargazers) **[Graphiti (Zep Engine)](https://github.com/getzep/graphiti)**  
   Open-source temporal knowledge graph engine for agent memory—featuring edge validity windows and time-aware fact retrieval (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social&color=white)](https://github.com/topoteretes/cognee/stargazers) **[Cognee](https://github.com/topoteretes/cognee)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social&color=white)](https://github.com/topoteretes/cognee/stargazers) **[Cognee](https://github.com/topoteretes/cognee)**  
   Graph-first memory and knowledge indexing pipeline for AI agents—ingest, structure, and query memory with local-first vectors and graphs (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social&color=white)](https://github.com/supermemoryai/supermemory/stargazers) **[Supermemory](https://github.com/supermemoryai/supermemory)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social&color=white)](https://github.com/supermemoryai/supermemory/stargazers) **[Supermemory](https://github.com/supermemoryai/supermemory)**  
   Open-source second brain and MCP-oriented memory architecture for LLMs, coding agents, and multi-session context persistence (MIT).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers) **[Chroma](https://github.com/chroma-core/chroma)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers) **[Chroma](https://github.com/chroma-core/chroma)**  
   Open-source AI-native embedding database designed to store agent memories, conversational context, and semantic embeddings locally or on cloud (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers) **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers) **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)**  
   Open-source agent framework with OS-inspired tiered memory—allowing agents to self-edit working memory and page long-term memory to disk (Apache 2.0).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white)](https://github.com/pgvector/pgvector/stargazers) **[pgvector](https://github.com/pgvector/pgvector)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white)](https://github.com/pgvector/pgvector/stargazers) **[pgvector](https://github.com/pgvector/pgvector)**  
   Open-source vector similarity search for PostgreSQL—the default relational backend for enterprise agent memory and session stores (MIT).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) **[Weaviate](https://github.com/weaviate/weaviate)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) **[Weaviate](https://github.com/weaviate/weaviate)**  
   Open-source vector database supporting hybrid search, object storage, and modular machine learning extensions for agent retrieval (BSD-3-Clause).
 
-- [![GitHub Stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social&color=white)](https://github.com/langchain-ai/langmem/stargazers) **[LangMem](https://github.com/langchain-ai/langmem)**  
+- [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social&color=white)](https://github.com/langchain-ai/langmem/stargazers) **[LangMem](https://github.com/langchain-ai/langmem)**  
   Open-source SDK by LangChain for adding episodic, semantic, and procedural memory primitives to LangGraph AI agent workflows (MIT).
 
 ---
