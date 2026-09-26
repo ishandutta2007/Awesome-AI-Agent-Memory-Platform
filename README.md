@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Forks"/></a> <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Forks"/></a> <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -28,6 +28,8 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [💡 Memory Framework Selection Guide](#-memory-framework-selection-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -124,6 +126,22 @@ Contributions are welcome! Follow these steps to submit additions or updates:
 2. 📝 **Edit** `README.md` to add your platform or open-source tool.
 3. 📌 Ensure entries match existing tabular formatting (include exact pricing/stars/description).
 4. 🔀 Submit a **Pull Request** with a brief summary of additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and building with the AI Agent Memory ecosystem! If you find this curated list helpful in architecting your AI agents:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🔄 **Share** it with fellow AI engineers and builders.
+- ☕ **Support the maintainer**: Consider buying me a coffee or sponsoring ongoing development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Agent-Memory-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Agent-Memory-Platform&type=date&legend=top-left)
 
 ---
 
