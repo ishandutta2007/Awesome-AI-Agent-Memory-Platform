@@ -1,207 +1,140 @@
-# Awesome-AI-Agent-Memory-Platform
-
-## Top AI Agent Memory Platform Ecosystem
-
-
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Long-Term Agent Memory, Temporal Knowledge Graphs, OS-Style Context Management, Vector Memory Layers & Persistent Agent State*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Agent Memory**. These systems give agents durable memory beyond the context window—extracting facts, tracking changes over time, managing tiered context, and retrieving the right memories for long-running tasks.
-
-
-
-**Examples** include Mem0, Zep, LangMem, Letta, Graphlit, Ragie, Redis LangCache, Supermemory, MemoryPlugin, Recall.ai Memory, Pinecone, Qdrant Cloud, and Chroma Cloud (the category leaders).
-
-
-
-**Open-source emphasis**: Agent memory has strong open options. **Mem0**, **Letta** (ex-MemGPT), **Graphiti** (Zep’s engine), **LangMem**, **Cognee**, and vector databases power most self-hosted memory layers. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Mem0](https://mem0.ai/)**  
-
-  Popular managed memory layer for AI agents—vector + graph + key-value with automatic fact extraction; open-source core available for self-hosting.
-
-
-
-- **[Zep](https://www.getzep.com/)**  
-
-  Temporal knowledge-graph memory for agents—tracks when facts change; Graphiti engine is open source.
-
-
-
-- **[Letta (Cloud)](https://www.letta.com/)**  
-
-  Hosted runtime for agents with OS-style tiered memory (in-context vs archival) that agents manage via tools.
-
-
-
-- **[Graphlit, Ragie, Supermemory](https://www.graphlit.com/)**  
-
-  Knowledge and memory platforms oriented toward RAG, agent context, and persistent retrieval for applications.
-
-
-
-- **[Redis LangCache / Redis Cloud Vector, Pinecone, Qdrant Cloud, Chroma Cloud](https://redis.io/)**  
-
-  Managed vector and cache layers widely used as the storage backend for agent memory and semantic retrieval.
-
-
-
-- **[LangMem, MemoryPlugin, Recall.ai Memory](https://www.langchain.com/)**  
-
-  Framework-native and specialty memory products for LangGraph stacks, plugins, and conversation/memory capture.
-
-
-
-- **[Other commercial agent memory platforms](https://mem0.ai/)**  
-
-  Additional managed memory APIs and knowledge layers for production agents.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Mem0](https://github.com/mem0ai/mem0)**  
-
-  Leading open-source (Apache 2.0) memory layer for AI agents—drop-in persistent memory with extraction, vector/graph options, and production-oriented design.
-
-
-
-- **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)**  
-
-  Open-source agent runtime with OS-inspired tiered memory—agents explicitly manage what stays in context vs long-term storage (Apache 2.0).
-
-
-
-- **[Graphiti (Zep’s open engine)](https://github.com/getzep/graphiti)**  
-
-  Open-source temporal knowledge graph for agent memory—fact validity windows and time-aware retrieval (MIT/Apache).
-
-
-
-- **[LangMem](https://github.com/langchain-ai/langmem)**  
-
-  Open LangGraph-native memory library—semantic, episodic, and procedural memory patterns as an SDK.
-
-
-
-- **[Cognee](https://github.com/topoteretes/cognee)**  
-
-  Open graph-first memory and knowledge pipeline for agents—ingest, structure, and query memory with local-first options (Apache 2.0).
-
-
-
-- **[Chroma, Qdrant, Weaviate, pgvector](https://github.com/chroma-core/chroma)**  
-
-  Open vector databases used as the storage foundation for custom agent memory and RAG layers.
-
-
-
-- **[Supermemory open / MCP memory projects](https://github.com/search?q=supermemory+OR+agent+memory+MCP)**  
-
-  Open and MCP-oriented memory tools optimized for coding agents and multi-session context.
-
-
-
-- **[MemGPT research lineage & community forks](https://github.com/search?q=MemGPT+OR+agent+memory+management)**  
-
-  Academic and community implementations of hierarchical and self-managed agent memory.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **General-purpose memory API**: Mem0 open core for quick integration.
-
-- **Temporal facts**: Graphiti when “when did this change?” matters.
-
-- **Self-managed agents**: Letta for long-running agents that page their own memory.
-
-- **LangGraph stacks**: LangMem for native memory primitives.
-
-- **DIY**: Vector DB + extraction LLM + simple CRUD for lightweight memory.
-
-- Commercial platforms still lead in managed scale, multi-tenant isolation, and zero-ops APIs.
-
-
-
-**Frameworks for building custom systems**:  
-
-**Mem0**, **Letta**, **Graphiti**, and **LangMem** are the primary open agent memory layers.  
-
-Pair with **Chroma/Qdrant/pgvector** for storage.  
-
-Commercial services (Mem0 Cloud, Zep, Letta Cloud, Pinecone, etc.) provide hosted reliability and support.  
-
-Many teams self-host Mem0 or Letta for control and use managed vector DBs for scale. Fully open memory stacks are production-viable with careful schema design and retrieval evaluation.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Agent memory stores personal and sensitive conversation data. Apply retention policies, encryption, access control, and user deletion rights (GDPR, etc.). Incorrect or stale memories can cause harmful agent behavior—monitor and allow correction.
-
-- Open-source tools offer data residency and control but require you to operate storage and extraction quality. Commercial platforms shift operational burden to the vendor. Evaluate memory accuracy on your own workloads before production use.
-
-
+# 🧠 Awesome AI Agent Memory Platform Ecosystem
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Agent Memory Platform Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=social" alt="GitHub Forks"/></a> <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Agent-Memory-Platform?style=flat-square" alt="License"/></a>
+</p>
 
 ---
 
+## ⚡ Top AI Agent Memory Platform Ecosystem & Infrastructure
 
+**Curated List of SaaS Products & Open-Source GitHub Projects**  
+*Focused on Long-Term Agent Memory, Temporal Knowledge Graphs, OS-Style Context Management, Vector Memory Layers & Persistent Agent State*  
 
-**Made for agent builders, AI platform engineers, and teams shipping long-running autonomous agents.**  
+**Last updated: September 2026** 📅
 
-Let's expand open agent memory while recognizing the managed reliability and scale that leading commercial memory platforms deliver.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Agent Memory** and long-term context retention. These state-of-the-art memory architectures give autonomous AI agents durable memory beyond standard LLM context windows—extracting entities, tracking fact temporal changes, managing multi-tier working memory, and executing semantic retrieval for complex long-running tasks.
+
+---
+
+## 📑 Table of Contents
+
+- [📈 Market Intelligence & Sector Overview](#-market-intelligence--sector-overview)
+- [☁️ SaaS / Hosted Agent Memory Platforms](#️-saas--hosted-agent-memory-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Memory Framework Selection Guide](#-memory-framework-selection-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📈 Market Intelligence & Sector Overview
+
+> 📊 **Estimated Market Size & Fragmentation**: The total addressable market (TAM) for AI Agent Memory & Context Infrastructure is estimated at **$2.5 Billion+ (2026)** and is projected to expand rapidly alongside autonomous multi-agent adoption. The sector is currently **moderately fragmented**, with hyper-growth startups (Mem0, Zep, Letta) competing against incumbent vector database hyperscalers (Pinecone, Qdrant, Chroma). However, it exhibits strong **"winner-take-most" network dynamics** driven by standard developer memory primitives, graph extraction quality, and SDK ecosystem integrations.
+
+---
+
+## ☁️ SaaS / Hosted Agent Memory Platforms
+
+Below is a detailed comparison of managed SaaS agent memory and context persistence solutions, sorted in **descending order by company valuation / market size**.
+
+| Product 🚀 | Description 📝 | Company Scale / Valuation 💰 | Starting Pricing Tier 💳 | Free Tier / Trial Limit 🆓 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Pinecone](https://www.pinecone.io/)** | High-performance managed vector database serving as long-term memory backend for AI agents. | **$750M Valuation** ($138M Raised) | $50/month (Standard Plan minimum) | **2 GB Storage**, 2M Write Units / 1M Read Units per month |
+| **[Qdrant Cloud](https://qdrant.tech/)** | Managed vector search engine with payload filtering optimized for agent memory & context state. | **$200M Valuation** ($87.8M Raised) | ~$25/month (Usage-based Standard cluster) | **1 GB RAM / 4 GB Disk**, 1 Node single cluster forever |
+| **[Mem0 Cloud](https://mem0.ai/)** | Drop-in managed memory layer featuring automatic fact extraction, graph memory, and key-value memory. | **$24.5M Raised** (Seed + Series A) | $19/month (Starter Plan) | **10,000 Add Requests**, 1,000 Retrieval Requests per month |
+| **[Graphlit](https://www.graphlit.com/)** | API-first knowledge and memory platform for RAG, agent memory ingestion, and automated graph extraction. | **$3.56M Raised** (Seed Round) | $49/month (Hobby Plan + usage) | **100 credits/month**, 1 GB storage & 1,000 content items |
+| **[Zep](https://www.getzep.com/)** | Temporal knowledge-graph memory engine designed for AI agents to track fact changes over time. | **~$1M ARR** ($2M Raised / YC W24) | Metered at $1.25 / 1,000 messages + $2.50 / MB | **10,000 credits/month** (2 projects, 1 MCP seat) |
+| **[Letta Cloud](https://www.letta.com/)** | Cloud runtime hosting OS-style tiered agent memory (in-context working memory vs. archival storage). | **Venture-Backed** (ex-MemGPT / UC Berkeley lineage) | $20/month (Developer Pro Plan) | **14-Day Free Trial** with 5,000 execution credits |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Leading self-hosted and open-source frameworks for agent memory, temporal knowledge graphs, and persistent state storage. Sorted by **GitHub Star Count (descending)**.
+
+- [![GitHub Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers) **[RAGFlow](https://github.com/infiniflow/ragflow)**  
+  Open-source RAG engine based on deep document understanding, offering agentic workflow engines and long-term memory context retrieval (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers) **[Mem0](https://github.com/mem0ai/mem0)**  
+  The leading open-source memory layer for AI agents—drop-in persistent memory with entity extraction, vector/graph support, and personalized agent state management (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers) **[CrewAI](https://github.com/crewAIInc/crewAI)**  
+  Cutting-edge framework for orchestrating role-playing autonomous AI agents with built-in short-term, long-term, and entity memory systems (MIT).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) **[Milvus](https://github.com/milvus-io/milvus)**  
+  High-performance, open-source cloud-native vector database engineered for scalable neural memory retrieval and billion-scale vector embedding indexing (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white)](https://github.com/agno-agi/agno/stargazers) **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)**  
+  Lightweight library for building multi-modal agents with structured memory, PostgreSQL session state, and dynamic knowledge retrieval (MIT).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers) **[DSPy](https://github.com/stanfordnlp/dspy)**  
+  Framework for programming—rather than prompting—foundation models, featuring declarative memory optimization and automated retrieval compilation (MIT).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers) **[Qdrant](https://github.com/qdrant/qdrant)**  
+  High-performance open-source vector search engine and database written in Rust with extended payload filtering for agent state management (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/getzep/graphiti?style=social&color=white)](https://github.com/getzep/graphiti/stargazers) **[Graphiti (Zep Engine)](https://github.com/getzep/graphiti)**  
+  Open-source temporal knowledge graph engine for agent memory—featuring edge validity windows and time-aware fact retrieval (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social&color=white)](https://github.com/topoteretes/cognee/stargazers) **[Cognee](https://github.com/topoteretes/cognee)**  
+  Graph-first memory and knowledge indexing pipeline for AI agents—ingest, structure, and query memory with local-first vectors and graphs (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social&color=white)](https://github.com/supermemoryai/supermemory/stargazers) **[Supermemory](https://github.com/supermemoryai/supermemory)**  
+  Open-source second brain and MCP-oriented memory architecture for LLMs, coding agents, and multi-session context persistence (MIT).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/chroma-core/chroma?style=social&color=white)](https://github.com/chroma-core/chroma/stargazers) **[Chroma](https://github.com/chroma-core/chroma)**  
+  Open-source AI-native embedding database designed to store agent memories, conversational context, and semantic embeddings locally or on cloud (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers) **[Letta (formerly MemGPT)](https://github.com/letta-ai/letta)**  
+  Open-source agent framework with OS-inspired tiered memory—allowing agents to self-edit working memory and page long-term memory to disk (Apache 2.0).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/pgvector/pgvector?style=social&color=white)](https://github.com/pgvector/pgvector/stargazers) **[pgvector](https://github.com/pgvector/pgvector)**  
+  Open-source vector similarity search for PostgreSQL—the default relational backend for enterprise agent memory and session stores (MIT).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=social&color=white)](https://github.com/weaviate/weaviate/stargazers) **[Weaviate](https://github.com/weaviate/weaviate)**  
+  Open-source vector database supporting hybrid search, object storage, and modular machine learning extensions for agent retrieval (BSD-3-Clause).
+
+- [![GitHub Stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social&color=white)](https://github.com/langchain-ai/langmem/stargazers) **[LangMem](https://github.com/langchain-ai/langmem)**  
+  Open-source SDK by LangChain for adding episodic, semantic, and procedural memory primitives to LangGraph AI agent workflows (MIT).
+
+---
+
+## 💡 Memory Framework Selection Guide
+
+| Use Case 🎯 | Recommended Memory Layer 🛠️ | Why? 💡 |
+| :--- | :--- | :--- |
+| **General Agent Memory** | **Mem0** | Fast, drop-in SDK combining vector + graph + KV storage with automated fact extraction. |
+| **Time-Sensitive Facts** | **Graphiti** | Manages validity intervals ("when did fact X change?") using temporal knowledge graphs. |
+| **Autonomous Self-Editing** | **Letta** | Implements OS-style memory management where agents invoke tools to edit context. |
+| **LangGraph Orchestration** | **LangMem** | Native integration into LangChain/LangGraph agent state loops with memory optimization primitives. |
+| **Enterprise Postgres Stack** | **pgvector** | Relational consistency alongside vector search for existing PostgreSQL database setups. |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Follow these steps to submit additions or updates:
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Edit** `README.md` to add your platform or open-source tool.
+3. 📌 Ensure entries match existing tabular formatting (include exact pricing/stars/description).
+4. 🔀 Submit a **Pull Request** with a brief summary of additions.
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated list** provided for informational and educational purposes.
+- **Privacy & Security**: Agent memory platforms retain user conversational history and sensitive state. Enforce encryption, GDPR data deletion compliance, and strict access controls when deploying memory components.
+- **Accuracy**: Stale or incorrect memory extractions can lead to agent hallucinations—always evaluate retrieval accuracy on your production workloads.
+
+---
+
+<p align="center">
+  <b>⭐ Star this repository if you find it helpful for building production AI agents! ⭐</b>
+</p>
