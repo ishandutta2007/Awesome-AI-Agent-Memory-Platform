@@ -104,6 +104,9 @@ Leading self-hosted and open-source frameworks for agent memory, temporal knowle
 - [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=social&color=white)](https://github.com/langchain-ai/langmem/stargazers) **[LangMem](https://github.com/langchain-ai/langmem)**  
   Open-source SDK by LangChain for adding episodic, semantic, and procedural memory primitives to LangGraph AI agent workflows (MIT).
 
+- [![GitHub_Stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social&color=white)](https://github.com/louis030195/hyperconsciousness/stargazers) **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**<br>
+  Developer-alpha Rust store for encrypted, append-only agent knowledge, with CLI/MCP access and scoped, expiring grants. Build from source (MIT).
+
 ---
 
 ## 💡 Memory Framework Selection Guide
