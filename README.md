@@ -107,6 +107,9 @@ Leading self-hosted and open-source frameworks for agent memory, temporal knowle
 - [![GitHub_Stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social&color=white)](https://github.com/louis030195/hyperconsciousness/stargazers) **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)**<br>
   Developer-alpha Rust store for encrypted, append-only agent knowledge, with CLI/MCP access and scoped, expiring grants. Build from source (MIT).
 
+- [![GitHub_Stars](https://img.shields.io/github/stars/SebastiaanBoon/cloud-alter-ego?style=social&color=white)](https://github.com/SebastiaanBoon/cloud-alter-ego/stargazers) **[Cloud Alter Ego](https://github.com/SebastiaanBoon/cloud-alter-ego)**<br>
+  MIT template for a remote MCP connector that gives every AI chat your rules, profile and work history as Markdown files in your own cloud storage (OneDrive, Google Drive, Dropbox, GitHub or Azure DevOps).
+
 ---
 
 ## 💡 Memory Framework Selection Guide
